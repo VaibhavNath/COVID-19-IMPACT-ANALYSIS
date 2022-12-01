@@ -1,8 +1,9 @@
-# COVID-19 IMPACT ANALYSIS
+### COVID-19 IMPACT ANALYSIS
 
 I analyze the spread of Covid-19 cases and all the impacts of covid-19 on the economy of countries.
 
 The dataset I am using to analyze the impacts of Covid-19 is downloaded from Kaggle. It contains data about:
+
 1.The country code
 
 2.Name of all the countries
